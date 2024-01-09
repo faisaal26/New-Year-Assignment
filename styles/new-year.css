@@ -71,7 +71,7 @@
   padding-top: 5px;
   padding-bottom: 40px;
   width: 802.9px;
-height: 500px;
+  height: 500px;
 
 }
 
@@ -194,13 +194,78 @@ height: 500px;
   line-height: 32px;
 }
 
-.Year{
+.Year {
   color: #F00;
-font-family: Inter;
-font-size: 48px;
-font-weight: 700;
+  font-family: Inter;
+  font-size: 48px;
+  font-weight: 700;
 }
-.section-4th-image{
-   border-radius: 50%;
-   border-color: orangered;
+
+.section-4th-image {
+  border-radius: 50%;
+  border-color: orangered;
+}
+
+.section-5th {
+  width: 1320px;
+  height: 910px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  background-image: url(../resources/Rectangle\ 2.png);
+  background-position: bottom;
+  background-repeat: no-repeat;
+  margin-top: 150px;
+}
+
+.image-50 {
+  
+  display: flex;
+  align-items: center;
+  
+
+}
+
+.section-5th-heding {
+  color: #070211;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  text-align: center;
+  margin-top: 5px;
+}
+
+.section-5th-title {
+  color: black;
+  text-align: center;
+  font-family: Merriweather;
+  font-size: 72px;
+  font-weight: 900;
+  margin-top: 20px;
+  margin-bottom: 0;
+}
+
+.section-5th-pra {
+  color: rgba(7, 2, 17, 0.60);
+  text-align: center;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 32px;
+  margin-bottom: 0;
+  margin-top: 20px;
+}
+.Holidays{
+  color: #F00;
+}
+.fifty{
+  position: absolute;
+  margin-top: 60px;
+  margin-left: -550px;
+}
+.Rectangle{
+  margin-left: 95px;
+ margin-bottom:550px;
+}
+.gift{
+ margin-bottom: 500px;
 }
