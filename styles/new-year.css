@@ -70,6 +70,9 @@
 .image {
   padding-top: 5px;
   padding-bottom: 40px;
+  width: 802.9px;
+height: 500px;
+
 }
 
 .section-title2 {
@@ -129,12 +132,11 @@
 
 .section-3rd {
   border-radius: 10px;
-  background: linear-gradient(hsl(0, 78%, 93%), #FF000000);
+  background: linear-gradient(hsl(0, 55%, 96%), #FF000000);
   width: 1320px;
   height: 482px;
   text-align: center;
   margin-top: 80px;
-
 
 }
 
@@ -158,12 +160,47 @@
 }
 
 .section-4th {
+
   width: 1320px;
   height: 482px;
   border-radius: 10px;
-  background-color: rgb(184, 41, 41);
-  margin-top: 40px;
+  background-color: #FFF;
+  margin-top: 100px;
   display: flex;
   align-items: center;
   text-align: left;
+
+}
+
+.section-3rd-head {
+  color: #F00;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.section-3rd-title {
+  color: #070211;
+  font-family: Merriweather;
+  font-size: 48px;
+  font-weight: 900;
+}
+
+.section-3rd-pra {
+  color: rgba(7, 2, 17, 0.60);
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32px;
+}
+
+.Year{
+  color: #F00;
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+}
+.section-4th-image{
+   border-radius: 50%;
+   border-color: orangered;
 }
