@@ -151,6 +151,15 @@
   margin-top: 80px;
 
 }
+.btn-pry{
+  color: #FFF;
+  background-color: #F00;
+  border: 0;
+  border-radius: 5px;
+  width: 150px;
+  height: 50px;
+  margin-top: 50px;
+}
 
 .section-3rd-text {
   color: #070211;
