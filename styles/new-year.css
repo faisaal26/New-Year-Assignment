@@ -346,7 +346,7 @@
   margin-top: 200px;
   text-align: center;
   padding-top: 100px;
-
+ 
 }
 
 .email {
@@ -389,4 +389,38 @@
   font-size: 20px;
   font-weight: 400;
   line-height: 32px;
+}
+
+
+/*   last  section   */
+footer {
+  width: 1600px;
+  height: 609px;
+  background-color: #070211;
+  margin-top: 200px;
+  margin-bottom: 100px;
+ 
+}
+
+.last-section-heading {
+  color: #FFF;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 40px;
+  margin-top: 120px;
+}
+
+.last-section-info {
+  color: #FFF;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 40px;
+  margin-top: 120px;
+}
+.last-section{
+  display: flex;
+  justify-content: space-between;
+  
 }
