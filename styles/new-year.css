@@ -1,4 +1,6 @@
-/* New year style*/
+
+/*      New year style       */
+
 * {
   margin: 0 auto;
 }
@@ -15,7 +17,7 @@
 
 }
 
-/* banner styles */
+/*                 banner styles                 */
 
 .banner-title {
   color: #fffcfc;
@@ -41,7 +43,7 @@
   padding: 150px 340px;
 }
 
-/* section style  */
+/*                 section style                 */
 
 .section-off {
   color: #F00;
@@ -81,7 +83,7 @@
 
 }
 
-/* section-2th */
+/*             section-2th               */
 
 .section-title2 {
   background-image: url(../resources/Vectorrr.png);
@@ -138,7 +140,7 @@
   position: left;
 }
 
-/* section-3th */
+/*                     section-3th                   */
 
 .section-3rd {
   border-radius: 10px;
@@ -169,7 +171,7 @@
   line-height: 56px;
 }
 
-/* section-4th */
+/*                 section-4th                          */
 
 .section-4th {
 
@@ -218,7 +220,7 @@
   border-color: orangered;
 }
 
-/* section-5th */
+/*                   section-5th                    */
 
 .section-5th {
   width: 1320px;
@@ -288,7 +290,7 @@
   margin-bottom: 500px;
 }
 
-/* section-6th */
+/*                 section-6th                   */
 
 .section-6th {
   width: 1320px;
@@ -337,7 +339,7 @@
   display: flex;
 }
 
-/* section-7th */
+/*                section-7th                */
 
 .section-7th {
   background: linear-gradient(hsl(0, 51%, 89%), #FF000000);
@@ -346,7 +348,7 @@
   margin-top: 200px;
   text-align: center;
   padding-top: 100px;
- 
+
 }
 
 .email {
@@ -393,13 +395,15 @@
 
 
 /*   last  section   */
+
 footer {
   width: 1600px;
   height: 609px;
   background-color: #070211;
   margin-top: 200px;
   margin-bottom: 100px;
- 
+  border-radius: 10px;
+
 }
 
 .last-section-heading {
@@ -408,7 +412,7 @@ footer {
   font-size: 24px;
   font-weight: 500;
   line-height: 40px;
-  margin-top: 120px;
+  margin-top: 100px;
 }
 
 .last-section-info {
@@ -417,10 +421,52 @@ footer {
   font-size: 24px;
   font-weight: 500;
   line-height: 40px;
-  margin-top: 120px;
+  margin-top: 100px;
 }
-.last-section{
+
+.last-section {
   display: flex;
   justify-content: space-between;
-  
 }
+
+.hr {
+  width: 1320px;
+  color: #bcbbbb;
+  margin-top: 40px;
+}
+
+.social-link {
+  text-align: center;
+  align-items: center;
+  padding-top: 50px;
+}
+.social-link img{
+  margin: 0 10px;
+}
+.hr2{
+  width: 1320px;
+  padding: auto;
+  color: #F00;
+}
+.last-section-task{
+  color: #FFF;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  margin-top: 100px;
+}
+.last-section-tasks{
+  color: #FFF;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+ margin-top: 100px;
+
+}
+.last-task{
+  display: flex;
+  justify-content: space-between;
+}
+
+
+/*                   The END                      */
