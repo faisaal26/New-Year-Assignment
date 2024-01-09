@@ -4,6 +4,7 @@
 }
 
 .header {
+
   background-image: url(../resources/Banner\ Image.png);
   width: 1320px;
   height: 600px;
@@ -11,26 +12,29 @@
   padding: 50PX 200px;
   background-repeat: no-repeat;
   border-radius: 16px;
+
 }
 
 /* banner styles */
 
 .banner-title {
-  color: #FFF;
+  color: #fffcfc;
   text-align: center;
   font-family: Merriweather;
-  font-size: 32px;
+  font-size: 60px;
   font-weight: 400;
+
 }
 
 .banner-pra {
-  color: #FFF;
+  color: #ffffff;
   text-align: center;
   font-family: Merriweather;
-  font-size: 72px;
+  font-size: 90px;
   font-weight: 900;
   line-height: 95px;
   width: 632px;
+  border-radius: 15px;
 }
 
 .banner-content {
@@ -296,15 +300,93 @@
 .section-6th-text {
   text-align: left;
 }
-.section-6th-heading{
+
+.section-6th-heading {
   color: #F00;
   font-family: Inter;
   font-size: 24px;
   font-weight: 500;
 }
-.section-6th-title{
- 
-}
-.section-6th-pra{
 
+.section-6th-title {
+  color: #070211;
+  font-family: Merriweather;
+  font-size: 48px;
+  font-weight: 900;
+  padding-top: 10px;
+  padding-bottom: 0;
+}
+
+.section-6th-pra {
+  color: rgba(7, 2, 17, 0.60);
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32px;
+  padding-top: 15px;
+}
+
+.section-6th-images {
+  padding-top: 40px;
+  padding-bottom: 30px;
+  align-items: center;
+  gap: 50px;
+}
+
+.section-6th-image {
+  display: flex;
+}
+
+/* section-7th */
+
+.section-7th {
+  background: linear-gradient(hsl(0, 51%, 89%), #FF000000);
+  width: 1320px;
+  height: 482px;
+  margin-top: 200px;
+  text-align: center;
+  padding-top: 100px;
+
+}
+
+.email {
+  background-color: #FFF;
+  width: 400px;
+  height: 50px;
+  text-align: left;
+  border: 0;
+  outline: 0;
+  border-radius: 15px;
+}
+
+.Subscribe {
+  width: 150px;
+  height: 50px;
+  text-align: center;
+  color: #FFF;
+  background-color: #F00;
+  border: 0;
+  border-radius: 0 15px 15px 0;
+  margin-left: -100px;
+}
+
+.input-valu {
+  margin-bottom: 80px;
+}
+
+.section-7th-heading {
+  color: #070211;
+  text-align: center;
+  font-family: Merriweather;
+  font-size: 48px;
+  font-weight: 900;
+}
+
+.section-7th-pra {
+  color: rgba(7, 2, 17, 0.60);
+  text-align: center;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32px;
 }
