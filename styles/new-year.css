@@ -1,0 +1,38 @@
+/* New year style*/
+* {
+  margin: 0 auto;
+}
+
+.header {
+  background-image: url(../resources/Banner\ Image.png);
+  width: 1320px;
+  height: 600px;
+
+  background-position: center;
+  padding: 50PX 200px;
+  background-repeat: no-repeat;
+  border-radius: 16px;
+}
+
+.banner-title {
+  color: #FFF;
+  text-align: center;
+  font-family: Merriweather;
+  font-size: 32px;
+  font-weight: 400;
+}
+
+.banner-pra {
+  color: #FFF;
+  text-align: center;
+  font-family: Merriweather;
+  font-size: 72px;
+  font-weight: 900;
+  line-height: 95px;
+  width: 632px;
+}
+
+.banner-content {
+  padding: 150px 340px;
+}
+
